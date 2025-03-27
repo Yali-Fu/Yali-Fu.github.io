@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. 
-
+---
 Research Interests
 ======
 - Anomaly Detection
@@ -19,7 +19,7 @@ Research Interests
 
 
 
-
+---
 Education
 ======
 **Jilin University**
@@ -30,7 +30,7 @@ Education
 - **B.E. in Software Engineering**  (2019 - 2023)
 - **Rank:** 1/155  
 - **GPA:** 4.56/5.00
-
+---
 
 
 
@@ -43,20 +43,21 @@ Publications
 *International Conference on Computer Supported Cooperative Work in Design (CCF-C), 2025.*  
 [PDF](#)
 
----
+
 
 ## ![Arxiv](Yali-profile.jpg) SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices  
 **Linixao Cao**, Yifei Zhu, Wei Gong*.  
 *(Preprint), 2024.*  
 [PDF](#)
 
----
+
 
 ## ![IoTJ](Yali-profile.jpg) Federated Inverse Reinforcement Learning for Smart ICUs with Differential Privacy  
 Wei Gong, **Linixao Cao**, Yifei Zhu, Fang Zuo, Xin He, Haoquan Zhou*.  
 *IEEE Internet of Things Journal (SCI-I), 2023.*  
 [PDF](#)
 
+---
 
 Honors and Awards
 ------
