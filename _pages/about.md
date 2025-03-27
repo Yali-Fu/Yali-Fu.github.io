@@ -41,7 +41,7 @@ Education
 Publications
 ======
 
-## <img src="path/to/image1.png" alt="ScreenAgent" width="300" align="left">  
+## <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="300" align="left">  
 ### ScreenAgent: A Vision Language Model-driven Computer Control Agent  
 Runliang Niu, Jindong Li, Shiqi Wang, **Yali Fu**, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.  
 *International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.*  
@@ -51,8 +51,8 @@ Runliang Niu, Jindong Li, Shiqi Wang, **Yali Fu**, Xiyu Hu, Xueyuan Leng, He Kon
 
 ---
 
-## <img src="path/to/image2.png" alt="HC-GLAD" width="300" align="left">  
-### Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection  
+## <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="300" align="left">  
+### HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection  
 **Yali Fu**, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang, *Irwin King*.  
 *(arXiv, Preprint), 2024.*  
 [PDF](#) | [Code](#)  
