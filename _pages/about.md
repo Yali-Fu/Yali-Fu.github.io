@@ -63,7 +63,7 @@ Publications
   </div>
 </div>
 
-<br>
+
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 40px;">
   <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
