@@ -41,11 +41,19 @@ Education
 Publications
 ======
 
-
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="path/to/image1.png" alt="ScreenAgent" width="600">
+  <div>
+    <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
+    Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
+    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
+    <a href="#">PDF</a> | <a href="#">Code</a>
+  </div>
+</div>
 
 <table>
 <tr>
-  <td width="40%">
+  <td width="35%">
     <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="600">
   </td>
   <td>
