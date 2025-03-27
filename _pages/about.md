@@ -41,7 +41,7 @@ Education
 Publications
 ======
 
-<div style="display: flex; align-items: center; gap: 15px;">
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 40px;">
   <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
     <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
@@ -51,9 +51,9 @@ Publications
   </div>
 </div>
 
-<br>
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 40px;">
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
     <b>HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
@@ -65,7 +65,7 @@ Publications
 
 <br>
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 40px;">
   <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
   <div>
     <b>GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
@@ -75,9 +75,9 @@ Publications
   </div>
 </div>
 
-<br>
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 40px;">
   <img src="/images/LCD-NET.png" alt="LCD-Net" width="250">
   <div>
     <b>LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
@@ -87,9 +87,9 @@ Publications
   </div>
 </div>
 
-<br>
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 40px;">
   <img src="/images/CLIP.png" alt="CLIP Survey" width="250">
   <div>
     <b>A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond</b><br>
