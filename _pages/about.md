@@ -15,6 +15,7 @@ Research Interests
 - Graph Data Mining
 - Large Language Models (LLMs)
 - Domain Generalization (DG), Domain Adaptation (DA)
+- Hyperbolic Geometry
 
 
 
