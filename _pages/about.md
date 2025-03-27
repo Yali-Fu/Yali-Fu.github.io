@@ -47,7 +47,7 @@ Publications
     <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="#https://arxiv.org/pdf/2402.07945">PDF</a> | <a href="#https://github.com/niuzaisheng/ScreenAgent">Code</a>
+    <a href="https://arxiv.org/pdf/2402.07945">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">Code</a>
   </div>
 </div>
 
