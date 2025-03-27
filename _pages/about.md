@@ -45,8 +45,8 @@ Publications
 
 <table>
 <tr>
-  <td width="50%">
-    <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="400">
+  <td width="40%">
+    <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="600">
   </td>
   <td>
     <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
