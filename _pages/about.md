@@ -42,11 +42,10 @@ Publications
 ======
 
 
-# Publications
 
 <table>
 <tr>
-  <td width="25%">
+  <td width="50%">
     <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="200">
   </td>
   <td>
