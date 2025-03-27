@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yali FU/ Homepage"
+title                    : "Yali Fu/ Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
