@@ -42,24 +42,32 @@ Publications
 ======
 
 
-## ![CSCW](/images/ScreenAgent.png) Federated Reinforcement Learning for Therapeutic Interventions over ICUs with Noisy Labels  
-**Linixao Cao**, Yifei Zhu, Haoquan Zhou, Shilei Tan, Wei Gong*.  
-*International Conference on Computer Supported Cooperative Work in Design (CCF-C), 2025.*  
-[PDF](#)
+## ![IJCAI](/images/ScreenAgent.png) ScreenAgent: A Vision Language Model-driven Computer Control Agent 
+Runliang Niu, Jindong Li, Shiqi Wang, **Yali Fu**, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*.  
+*International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.*  
+[PDF](#https://arxiv.org/pdf/2402.07945) | [Code](#https://github.com/niuzaisheng/ScreenAgent)
 
 
-
-## ![Arxiv](Yali-profile.jpg) SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices  
-**Linixao Cao**, Yifei Zhu, Wei Gong*.  
-*(Preprint), 2024.*  
-[PDF](#)
-
+## ![arXiv](/images/HC-GLAD.png) HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection
+**Yali Fu**, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King.  
+*(arXiv, Preprint), 2024.*  
+[PDF](#https://arxiv.org/pdf/2407.02057) | [Code](#https://github.com/Yali-Fu/HC-GLAD)
 
 
-## ![IoTJ](Yali-profile.jpg) Federated Inverse Reinforcement Learning for Smart ICUs with Differential Privacy  
-Wei Gong, **Linixao Cao**, Yifei Zhu, Fang Zuo, Xin He, Haoquan Zhou*.  
-*IEEE Internet of Things Journal (SCI-I), 2023.*  
-[PDF](#)
+## ![arXiv](/images/GLADMamba.png) GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model
+**Yali Fu**, Jindong Li, Qi Wang, Qianli Xing.  
+*(arXiv, Preprint), 2025.*  
+[PDF](#https://arxiv.org/pdf/2503.17903) | [Code](#https://github.com/Yali-Fu/GLADMamba)
+
+## ![J-STARS](/images/LCD-NET.png) LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism
+Wenyu Liu, Jindong Li, Haoji Wang, Run Tan, **Yali Fu**, Qichuan Tian*.  
+*Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS, JCR Q1), 2025.*  
+[PDF](#https://arxiv.org/pdf/2410.11580) | [Code](#https://github.com/WenyuLiu6/LCD-Net)
+
+## ![Survey](/images/CLIP.png) A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
+Jindong Li, Yongguang Li, **Yali Fu**, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang*, Irwin King.  
+*Prepared, 2025.*  
+[Code](#https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)
 
 ---
 
