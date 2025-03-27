@@ -51,17 +51,52 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
+  <div>
+    <b>HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
+    <b>Yali Fu</b>, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang, <i>Irwin King</i>.<br>
+    <i>(arXiv, Preprint), 2024.</i><br>
+    <a href="https://arxiv.org/pdf/2407.02057">PDF</a> | <a href="https://github.com/Yali-Fu/HC-GLAD">Code</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
+  <div>
+    <b>GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
+    <b>Yali Fu</b>, Jindong Li, Qi Wang, Qianli Xing.<br>
+    <i>(arXiv, Preprint), 2025.</i><br>
+    <a href="https://arxiv.org/pdf/2503.17903">PDF</a> | <a href="https://github.com/Yali-Fu/GLADMamba">Code</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/LCD-NET.png" alt="LCD-Net" width="250">
+  <div>
+    <b>LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    Wenyu Liu, Jindong Li, Haoji Wang, Run Tan, <b>Yali Fu</b>, Qichuan Tian.<br>
+    <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS, JCR Q1), 2025.</i><br>
+    <a href="https://arxiv.org/pdf/2410.11580">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">Code</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/CLIP.png" alt="CLIP Survey" width="250">
+  <div>
+    <b>A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond</b><br>
+    Jindong Li, Yongguang Li, <b>Yali Fu</b>, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang, <i>Irwin King</i>.<br>
+    <i>Prepared, 2025.</i><br>
+    <a href="https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation">Code</a>
+  </div>
+</div>
+
 
 ---
 
 
 ---
 
-
-## ![IJCAI](/images/ScreenAgent.png) ScreenAgent: A Vision Language Model-driven Computer Control Agent 
-Runliang Niu, Jindong Li, Shiqi Wang, **Yali Fu**, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*.  
-*International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.*  
-[PDF](#https://arxiv.org/pdf/2402.07945) | [Code](#https://github.com/niuzaisheng/ScreenAgent)
 
 
 ## ![arXiv](/images/HC-GLAD.png) HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection
@@ -89,6 +124,4 @@ Jindong Li, Yongguang Li, **Yali Fu**, Jiahong Liu, Yixin Liu, Qi Wang, Menglin 
 
 Honors and Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
 
