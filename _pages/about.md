@@ -47,57 +47,15 @@ Publications
     <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="#">PDF</a> | <a href="#">Code</a>
+    <a href="#https://arxiv.org/pdf/2402.07945">PDF</a> | <a href="#https://github.com/niuzaisheng/ScreenAgent">Code</a>
   </div>
 </div>
 
-<table>
-<tr>
-  <td width="35%">
-    <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="600">
-  </td>
-  <td>
-    <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
-    Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
-    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="#">PDF</a> | <a href="#">Code</a>
-  </td>
-</tr>
-</table>
 
 ---
 
-<table>
-<tr>
-  <td width="25%">
-    <img src="path/to/image2.png" alt="HC-GLAD" width="200">
-  </td>
-  <td>
-    <b>HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
-    <b>Yali Fu</b>, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang, <i>Irwin King</i>.<br>
-    <i>(arXiv, Preprint), 2024.</i><br>
-    <a href="#">PDF</a> | <a href="#">Code</a>
-  </td>
-</tr>
-</table>
-
-## <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="300" align="left">  
-### ScreenAgent: A Vision Language Model-driven Computer Control Agent  
-Runliang Niu, Jindong Li, Shiqi Wang, **Yali Fu**, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.  
-*International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.*  
-[PDF](#) | [Code](#)  
-
-<br clear="left"/>
 
 ---
-
-## <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="300" align="left">  
-### HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection  
-**Yali Fu**, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang, *Irwin King*.  
-*(arXiv, Preprint), 2024.*  
-[PDF](#) | [Code](#)  
-
-<br clear="left"/>
 
 
 ## ![IJCAI](/images/ScreenAgent.png) ScreenAgent: A Vision Language Model-driven Computer Control Agent 
