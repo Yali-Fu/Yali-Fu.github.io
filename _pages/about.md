@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. 
+
 ---
+
 Research Interests
 ======
 - Anomaly Detection
@@ -18,8 +20,8 @@ Research Interests
 - Hyperbolic Geometry
 
 
-
 ---
+
 Education
 ======
 **Jilin University**
@@ -30,6 +32,8 @@ Education
 - **B.E. in Software Engineering**  (2019 - 2023)
 - **Rank:** 1/155  
 - **GPA:** 4.56/5.00
+
+  
 ---
 
 
