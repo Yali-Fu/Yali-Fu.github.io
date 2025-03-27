@@ -42,7 +42,7 @@ Publications
 ======
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="path/to/image1.png" alt="ScreenAgent" width="600">
+  <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="600">
   <div>
     <b>ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
