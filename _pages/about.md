@@ -94,34 +94,6 @@ Publications
 
 ---
 
-
----
-
-
-
-## ![arXiv](/images/HC-GLAD.png) HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection
-**Yali Fu**, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King.  
-*(arXiv, Preprint), 2024.*  
-[PDF](#https://arxiv.org/pdf/2407.02057) | [Code](#https://github.com/Yali-Fu/HC-GLAD)
-
-
-## ![arXiv](/images/GLADMamba.png) GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model
-**Yali Fu**, Jindong Li, Qi Wang, Qianli Xing.  
-*(arXiv, Preprint), 2025.*  
-[PDF](#https://arxiv.org/pdf/2503.17903) | [Code](#https://github.com/Yali-Fu/GLADMamba)
-
-## ![J-STARS](/images/LCD-NET.png) LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism
-Wenyu Liu, Jindong Li, Haoji Wang, Run Tan, **Yali Fu**, Qichuan Tian*.  
-*Journal of Selected Topics in Applied Earth Observations and Remote Sensing(J-STARS, JCR Q1), 2025.*  
-[PDF](#https://arxiv.org/pdf/2410.11580) | [Code](#https://github.com/WenyuLiu6/LCD-Net)
-
-## ![Survey](/images/CLIP.png) A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond
-Jindong Li, Yongguang Li, **Yali Fu**, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang*, Irwin King.  
-*Prepared, 2025.*  
-[Code](#https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)
-
----
-
 Honors and Awards
 ------
 
