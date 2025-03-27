@@ -42,7 +42,7 @@ Publications
 ======
 
 
-## ![CSCW](images/ScreenAgent.png) Federated Reinforcement Learning for Therapeutic Interventions over ICUs with Noisy Labels  
+## ![CSCW](/images/ScreenAgent.png) Federated Reinforcement Learning for Therapeutic Interventions over ICUs with Noisy Labels  
 **Linixao Cao**, Yifei Zhu, Haoquan Zhou, Shilei Tan, Wei Gong*.  
 *International Conference on Computer Supported Cooperative Work in Design (CCF-C), 2025.*  
 [PDF](#)
