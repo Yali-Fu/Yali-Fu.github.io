@@ -51,6 +51,8 @@ Publications
   </div>
 </div>
 
+<br>
+
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
@@ -60,6 +62,8 @@ Publications
     <a href="https://arxiv.org/pdf/2407.02057">PDF</a> | <a href="https://github.com/Yali-Fu/HC-GLAD">Code</a>
   </div>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
@@ -71,6 +75,8 @@ Publications
   </div>
 </div>
 
+<br>
+
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/LCD-NET.png" alt="LCD-Net" width="250">
   <div>
@@ -80,6 +86,8 @@ Publications
     <a href="https://arxiv.org/pdf/2410.11580">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">Code</a>
   </div>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/CLIP.png" alt="CLIP Survey" width="250">
