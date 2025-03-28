@@ -105,14 +105,14 @@ Publications
 Honors and Awards
 ------
 
-- Graduate Academic Scholarship 2024
-- First Prize of Outstanding Student Scholarship       2022
-- First Prize of Outstanding Student Scholarship      2021
-- China Undergraduate Mathematical Contest in Modelling (CUMCM) -- First Prize      2021
-- National Encouragement Scholarship 2021
-- Merit Student 2021
-- The Chinese Mathematics Competitions (CMC) -- Third Prize  2021
-- Second Prize of Outstanding Student Scholarship     2020
+- Graduate Academic Scholarship                                               2024
+- First Prize of Outstanding Student Scholarship                              2022–2023 Academic Year
+- First Prize of Outstanding Student Scholarship                              2021–2022 Academic Year
+- China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize  2021
+- National Encouragement Scholarship                                          2021–2022 Academic Year
+- Merit Student                                                               2021–2022 Academic Year
+- The Chinese Mathematics Competitions (CMC) — Third Prize                    2021
+- Second Prize of Outstanding Student Scholarship                             2020–2021 Academic Year
 
 Programming 
 ------
