@@ -122,6 +122,6 @@ Programming
 English
 ------
 
-- CET-4 (2020)
-- CET-6 (2021)
+- CET-4
+- CET-6
 - IELTs (In Preparation)
