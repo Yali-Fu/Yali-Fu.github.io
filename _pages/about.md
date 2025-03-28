@@ -13,11 +13,12 @@ Hello! I'm currently pursuing my Master's degree in the School of Artificial Int
 
 Research Interests
 ======
-- Anomaly Detection
-- Graph Learning
 - Large Language Models (LLMs)
-- Domain Generalization (DG), Domain Adaptation (DA)
+- Graph Learning
+- Multimodal Learning
+- Anomaly Detection
 - Hyperbolic Geometry
+- Domain Generalization (DG), Domain Adaptation (DA)
 
 
 ---
@@ -117,13 +118,11 @@ Honors and Awards
 
 
 
-Programming 
+Skills
 ------
-- Python, C++, C
-- PyTorch, TensorFlow
+- **Programming:** Python, C++, C
+- **Deep Learning Tools:** PyTorch, TensorFlow
 
-English
-------
-
+**English**
 - CET-4, CET-6
 - IELTs (In Preparation)
