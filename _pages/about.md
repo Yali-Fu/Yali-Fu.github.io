@@ -116,12 +116,12 @@ Honors and Awards
 
 Programming 
 ------
-- **Python** C++ C Java
-- **PyTorch** TensorFlow
+- Python, C++, C, Java
+- PyTorch, TensorFlow
 
 English
 ------
 
 - CET-4 (2020)
 - CET-6 (2021)
-- IELTS (In Preparation)
+- IELTs (In Preparation)
