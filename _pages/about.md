@@ -111,7 +111,7 @@ Honors and Awards
 • Graduate Academic Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2024 <br>
 • First Prize of Outstanding Student Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022–2023 Academic Year <br>
 • First Prize of Outstanding Student Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021–2022 Academic Year <br>
-• China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize &emsp;&emsp;&nbsp;&nbsp;&nbsp;2021 <br>
+• China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 <br>
 • National Encouragement Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021–2022 Academic Year <br>
 • Merit Student &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2021–2022 Academic Year <br>
 • The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;2021 <br>
