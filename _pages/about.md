@@ -14,7 +14,7 @@ Hello! I'm currently pursuing my Master's degree in the School of Artificial Int
 Research Interests
 ======
 - Anomaly Detection
-- Graph Data Mining
+- Graph Learning
 - Large Language Models (LLMs)
 - Domain Generalization (DG), Domain Adaptation (DA)
 - Hyperbolic Geometry
