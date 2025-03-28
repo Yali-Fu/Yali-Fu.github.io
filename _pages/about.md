@@ -114,8 +114,8 @@ Honors and Awards
 • China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize &emsp;&emsp;&nbsp;&nbsp;&nbsp;2021 <br>
 • National Encouragement Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021–2022 Academic Year <br>
 • Merit Student &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2021–2022 Academic Year <br>
-• The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2021 <br>
-• Second Prize of Outstanding Student Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2020–2021 Academic Year 
+• The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2021 <br>
+• Second Prize of Outstanding Student Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2020–2021 Academic Year 
 </div>
 
 
