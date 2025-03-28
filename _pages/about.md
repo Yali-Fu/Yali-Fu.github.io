@@ -107,10 +107,21 @@ Honors and Awards
 
 - Graduate Academic Scholarship 2024
 - First Prize of Outstanding Student Scholarship       2022
-- China Undergraduate Mathematical Contest in Modelling (CUMCM) -- First Prize      2021
 - First Prize of Outstanding Student Scholarship      2021
+- China Undergraduate Mathematical Contest in Modelling (CUMCM) -- First Prize      2021
 - National Encouragement Scholarship 2021
+- Merit Student 2021
 - The Chinese Mathematics Competitions (CMC) -- Third Prize  2021
 - Second Prize of Outstanding Student Scholarship     2020
 
+Programming 
+------
+- **Python** C++ C Java
+- **PyTorch** TensorFlow
 
+English
+------
+
+- CET-4 (2020)
+- CET-6 (2021)
+- IELTS (In Preparation)
