@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. 
+Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. My research focuses on artificial intelligence (AI), particularly machine learning (ML) and deep learning (DL), with a focus on:
 
 ---
 
