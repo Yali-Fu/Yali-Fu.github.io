@@ -119,7 +119,7 @@ Honors and Awards
 
 Programming 
 ------
-- Python, C++, C, Java
+- Python, C++, C
 - PyTorch, TensorFlow
 
 English
