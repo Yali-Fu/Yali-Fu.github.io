@@ -114,16 +114,16 @@ Honors and Awards
 - The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021
 - Second Prize of Outstanding Student Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020–2021 Academic Year
 
-<pre>
+<div style="white-space: pre; background: none;">
 - Graduate Academic Scholarship                                    2024
-- First Prize of Outstanding Student Scholarship                   2022-2023 Academic Year
-- First Prize of Outstanding Student Scholarship                   2021-2022 Academic Year
-- China Undergraduate Mathematical Contest in Modelling (CUMCM)    2021
-- National Encouragement Scholarship                               2021-2022 Academic Year
-- Merit Student                                                    2021-2022 Academic Year
-- The Chinese Mathematics Competitions (CMC)                       2021
-- Second Prize of Outstanding Student Scholarship                  2020-2021 Academic Year
-</pre>
+- First Prize of Outstanding Student Scholarship                  2022-2023 Academic Year
+- First Prize of Outstanding Student Scholarship                  2021-2022 Academic Year
+- China Undergraduate Mathematical Contest in Modelling (CUMCM)   2021
+- National Encouragement Scholarship                             2021-2022 Academic Year
+- Merit Student                                                  2021-2022 Academic Year
+- The Chinese Mathematics Competitions (CMC)                      2021
+- Second Prize of Outstanding Student Scholarship                 2020-2021 Academic Year
+</div>
 
 
 
