@@ -114,14 +114,40 @@ Honors and Awards
 - The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021
 - Second Prize of Outstanding Student Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020–2021 Academic Year
 
-- Graduate Academic Scholarship                                                      2024
-- First Prize of Outstanding Student Scholarship                                     2022–2023 Academic Year
-- First Prize of Outstanding Student Scholarship                                     2021–2022 Academic Year
-- China Undergraduate Mathematical Contest in Modelling (CUMCM) -- First Prize      2021
-- National Encouragement Scholarship 2021–2022 Academic Year
-- Merit Student 2021–2022 Academic Year
-- The Chinese Mathematics Competitions (CMC) -- Third Prize  2021
-- Second Prize of Outstanding Student Scholarship     2020–2021 Academic Year
+<ul style="font-family: monospace; margin-left: 0; padding-left: 0;">
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">Graduate Academic Scholarship</span>
+    <span>2024</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">First Prize of Outstanding Student Scholarship</span>
+    <span>2022–2023 Academic Year</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">First Prize of Outstanding Student Scholarship</span>
+    <span>2021–2022 Academic Year</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize</span>
+    <span>2021</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">National Encouragement Scholarship</span>
+    <span>2021–2022 Academic Year</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">Merit Student</span>
+    <span>2021–2022 Academic Year</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">The Chinese Mathematics Competitions (CMC) — Third Prize</span>
+    <span>2021</span>
+  </li>
+  <li style="list-style-type: none;">
+    <span style="display: inline-block; width: 65ch;">Second Prize of Outstanding Student Scholarship</span>
+    <span>2020–2021 Academic Year</span>
+  </li>
+</ul>
 
 
 
