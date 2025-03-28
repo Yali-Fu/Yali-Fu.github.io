@@ -92,7 +92,7 @@ Publications
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/CLIP.png" alt="CLIP Survey" width="250">
   <div>
-    <b style="color: #0A1624;">A Comprehensive Survey on CLIP Powered Domain Generalization and Adaptation: Review and Beyond</b><br>
+    <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey.</b><br>
     Jindong Li, Yongguang Li, <b>Yali Fu</b>, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang, <i>Irwin King</i>.<br>
     <i>Prepared, 2025.</i><br>
     <a href="https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation">Code</a>
