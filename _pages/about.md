@@ -108,7 +108,7 @@ Honors and Awards
 - Graduate Academic Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024
 - First Prize of Outstanding Student Scholarship &emsp;&emsp;2022–2023 Academic Year 
 - First Prize of Outstanding Student Scholarship &emsp;&emsp;2021–2022 Academic Year 
-- China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize &emsp;&nbsp;&nbsp;2021
+- China Undergraduate Mathematical Contest in Modeling (CUMCM) — First Prize &emsp;&emsp;&nbsp;&nbsp;2021
 - National Encouragement Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021–2022 Academic Year 
 - Merit Student &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2021–2022 Academic Year 
 - The Chinese Mathematics Competitions (CMC) — Third Prize&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2021
@@ -125,6 +125,5 @@ Programming
 English
 ------
 
-- CET-4
-- CET-6
+- CET-4, CET-6
 - IELTs (In Preparation)
