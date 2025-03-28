@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. My research focuses on artificial intelligence (AI), particularly machine learning (ML) and deep learning (DL).
+Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. My research focuses on Artificial Intelligence (AI), particularly Machine Learning (ML) and Deep Learning (DL).
 
 ---
 
@@ -26,11 +26,11 @@ Research Interests
 Education
 ======
 **Jilin University**
-- **M.E. in Computer Science and Technology**   (2023 - 2026)
+- **M.E. in Computer Science and Technology**   &emsp;(2023 - 2026)
 - **Supervisor**: Associate Prof. [Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
 
 **Hebei University**
-- **B.E. in Software Engineering**  (2019 - 2023)
+- **B.E. in Software Engineering**  &emsp;(2019 - 2023)
 - Rank: 1/155  
 - GPA: 4.56/5.00
 
