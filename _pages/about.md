@@ -96,7 +96,7 @@ Publications
     <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey.</b><br>
     Jindong Li, Yongguang Li, <b>Yali Fu</b>, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang, <i>Irwin King</i>.<br>
     <i>Prepared, 2025.</i><br>
-    <a href="https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation">CODE</a>
+    <a href="https://arxiv.org/abs/2504.14280">PDF</a> | <a href="https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation">CODE</a> | <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a>
   </div>
 </div>
 
