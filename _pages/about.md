@@ -72,7 +72,7 @@ Publications
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
     <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
-    <b>Yali Fu</b>\*, Jindong Li\*, Jiahong Liu, Qianli Xing, Qi Wang†, <i>Irwin King</i>.<br>
+    <b>Yali Fu</b><sup>*</sup>, Jindong Li<sup>*</sup>, Jiahong Liu, Qianli Xing, Qi Wang†, <i>Irwin King</i>.<br>
     <i>(arXiv, Preprint), 2024.</i><br>
     <a href="https://arxiv.org/pdf/2407.02057">PDF</a> | <a href="https://github.com/Yali-Fu/HC-GLAD">CODE</a>
   </div>
