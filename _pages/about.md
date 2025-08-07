@@ -42,7 +42,7 @@ Education
 Publications
 ======
 
-* Co-first auther  † Corresponding author
+\* Co-first author  &emsp;  † Corresponding author
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
