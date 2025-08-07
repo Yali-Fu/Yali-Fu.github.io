@@ -95,7 +95,7 @@ Publications
     <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.</b><br>
     Jindong Li, <b>Yali Fu</b>, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang, Irwin King, Ming-Hsuan Yang.
     <br><i>(arXiv, Preprint), 2025.</i><br>
-    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a>
+    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a> | <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a>
   </div>
 </div>
 
