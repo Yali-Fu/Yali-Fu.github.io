@@ -92,6 +92,17 @@ Publications
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/reasoning-survey.png" alt="Discrete Survey" width="250">
+  <div>
+    <b style="color: #0A1624;">Implicit Reasoning in Large Language Models: A Comprehensive Survey.</b><br>
+    Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang<sup>†</sup>, Irwin King, Rex Ying.
+    <br><i>(arXiv, Preprint), 2025.</i><br>
+    <a href="https://arxiv.org/abs/2509.02350">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey">CODE</a> 
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/discrete-survey.png" alt="Discrete Survey" width="250">
   <div>
     <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.</b><br>
