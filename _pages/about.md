@@ -32,7 +32,7 @@ Education
 **Hebei University**
 - **B.E. in Software Engineering**  &emsp;(2019 - 2023)
 - Rank: 1/155  
-- GPA: 4.56/5.00
+- GPA: 4.42/5.00
 
   
 ---
