@@ -13,7 +13,7 @@ Hello! I'm currently pursuing my Master's degree in the School of Artificial Int
 
 Research Interests
 ======
-- Large Language Models (LLMs)
+- Large Language Models (LLMs), Reasoning
 - Graph Learning
 - Multimodal Learning
 - Anomaly Detection
@@ -78,19 +78,6 @@ Publications
   </div>
 </div>
 
-
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/LCD-NET.png" alt="LCD-Net" width="250">
-  <div>
-    <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
-    Wenyu Liu, Jindong Li, Haoji Wang, Run Tan, <b>Yali Fu</b>, Qichuan Tian<sup>†</sup>.<br>
-    <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS, JCR Q1), 2025.</i><br>
-    <a href="https://arxiv.org/pdf/2410.11580">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a>
-  </div>
-</div>
-
-
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/reasoning-survey.png" alt="Discrete Survey" width="250">
   <div>
@@ -111,6 +98,21 @@ Publications
     <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a> | <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a>
   </div>
 </div>
+
+
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/LCD-NET.png" alt="LCD-Net" width="250">
+  <div>
+    <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    Wenyu Liu, Jindong Li, Haoji Wang, Run Tan, <b>Yali Fu</b>, Qichuan Tian<sup>†</sup>.<br>
+    <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS, JCR Q1), 2025.</i><br>
+    <a href="https://arxiv.org/pdf/2410.11580">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a>
+  </div>
+</div>
+
+
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
