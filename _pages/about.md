@@ -84,7 +84,7 @@ Publications
     <b style="color: #0A1624;">Implicit Reasoning in Large Language Models: A Comprehensive Survey.</b><br>
     Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang<sup>†</sup>, Irwin King, Rex Ying.
     <br><i>(arXiv, Preprint), 2025.</i><br>
-    <a href="https://arxiv.org/abs/2509.02350">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey">CODE</a> 
+    <a href="https://arxiv.org/abs/2509.02350">PDF</a> | <a href="https://github.com/digailab/awesome-llm-implicit-reasoning">CODE</a> | <a href="https://mp.weixin.qq.com/s/YPVtFIFuEDW90CMfKaup_w?scene=1&click_id=5">PaperWeekly</a> 
   </div>
 </div>
 
