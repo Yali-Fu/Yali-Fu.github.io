@@ -165,6 +165,6 @@ Honors and Awards
 
 Skills
 ------
-- **Programming:** &nbsp; Python, C++, C; LaTex
+- **Programming:** &nbsp; Python, C, C++; LaTex
 - **Deep Learning Tools:** &nbsp; PyTorch, TensorFlow
 - **English:** &nbsp; CET-4, CET-6, IELTs (In Preparation)
