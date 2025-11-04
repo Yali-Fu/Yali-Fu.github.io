@@ -27,7 +27,7 @@ Research Interests
 Information
 ======
 - **E-mail**: [fuyl23@mails.jlu.edu.cn](mailto:fuyl23@mails.jlu.edu.cn)   &emsp;  [yali.fu689@gmail.com](mailto:yali.fu689@gmail.com) 
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">102</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">103</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yali-Fu)
 
 
@@ -148,7 +148,7 @@ Honors and Awards
 
 <div style="font-size: 13px;">
 • Outstanding Graduate Student&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;2025 <br>
-• Graduate Academic Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2024 <br>
+• Graduate Academic Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2025 <br>
 • Graduate Academic Scholarship&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2024 <br>
 • Outstanding Undergraduate Thesis (Design) Award &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2023 <br>
 • First Prize of Outstanding Student Scholarship &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022–2023 Academic Year <br>
