@@ -14,11 +14,12 @@ Hello! I'm currently pursuing my Master's degree in the School of Artificial Int
 Research Interests
 ======
 - Large Language Models (LLMs), Reasoning
-- Graph Learning
 - Multimodal Learning
 - Anomaly Detection
-- Hyperbolic Geometry
 - Domain Generalization (DG), Domain Adaptation (DA)
+- Graph Learning
+- Hyperbolic Geometry
+
 
 
 
@@ -27,7 +28,7 @@ Research Interests
 Information
 ======
 - **E-mail**: [fuyl23@mails.jlu.edu.cn](mailto:fuyl23@mails.jlu.edu.cn)   &emsp;  [yali.fu689@gmail.com](mailto:yali.fu689@gmail.com) 
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">113</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">114</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yali-Fu)
 
 
