@@ -110,6 +110,7 @@ Publications
     <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning.</b><br>
     Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Menglin Yang<sup>†</sup>.
     <br><i>AAAI 2026 Bridge.</i><br>
+    <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176538331.19733376">PDF</a> 
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">CODE</a>  
   </div>
 </div>
