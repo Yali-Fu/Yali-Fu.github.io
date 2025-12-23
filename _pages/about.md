@@ -63,7 +63,7 @@ Publications
   <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
   <div>
     <b>GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
-    <b style="color: #0A1624;">Yali Fu</b>, Jindong Li, Qi Wang<sup>†</sup>, Qianli Xing.
+    <b>Yali Fu</b>, Jindong Li, Qi Wang<sup>†</sup>, Qianli Xing.
     <br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
     <a href="https://arxiv.org/pdf/2503.17903">PDF</a> | <a href="https://github.com/Yali-Fu/GLADMamba">CODE</a>
   </div>
