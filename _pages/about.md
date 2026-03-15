@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. My research focuses on Artificial Intelligence (AI), particularly Machine Learning (ML) and Deep Learning (DL).
+Hello! I'm currently pursuing my Master's degree in the School of Artificial Intelligence at Jilin University, where I conduct research under the guidance of Associate Professor Qi Wang. My research focuses on Large Language Models (LLMs) and Graph Learning.
 
 ---
 
@@ -28,7 +28,7 @@ Research Interests
 Information
 ======
 - **E-mail**: [fuyl23@mails.jlu.edu.cn](mailto:fuyl23@mails.jlu.edu.cn)   &emsp;  [yali.fu689@gmail.com](mailto:yali.fu689@gmail.com) 
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">164</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DlB7t7kAAAAJ) <font color="#FFA500">175</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yali-Fu)
 
 
@@ -70,16 +70,27 @@ Publications
 </div>
 
 
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="250">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
-    <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
-    Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang<sup>†</sup>.<br>
-    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="https://www.ijcai.org/proceedings/2024/711">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
+    <b>Yali Fu</b>, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang<sup>†</sup>, <i>Irwin King</i>.<br>
+    <i>Neural Networks (CCF-B)</i><br>
+    <a href="https://arxiv.org/pdf/2407.02057">PDF</a> | <a href="https://github.com/Yali-Fu/HC-GLAD">CODE</a>
   </div>
 </div>
+
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/discrete-survey.png" alt="Discrete Survey" width="250">
+  <div>
+    <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.</b><br>
+    Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang<sup>†</sup>, Irwin King, Ming-Hsuan Yang.
+    <br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A), 2026.</i><br>
+    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a> | <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a>
+  </div>
+</div>
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
@@ -92,16 +103,6 @@ Publications
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
-  <div>
-    <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
-    <b>Yali Fu</b>, Jindong Li, Jiahong Liu, Qianli Xing, Qi Wang<sup>†</sup>, <i>Irwin King</i>.<br>
-    <i>(arXiv, Preprint), 2024.</i><br>
-    <a href="https://arxiv.org/pdf/2407.02057">PDF</a> | <a href="https://github.com/Yali-Fu/HC-GLAD">CODE</a>
-  </div>
-</div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/reasoning-survey.png" alt="Discrete Survey" width="250">
@@ -126,13 +127,13 @@ Publications
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/discrete-survey.png" alt="Discrete Survey" width="250">
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
-    <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.</b><br>
-    Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang<sup>†</sup>, Irwin King, Ming-Hsuan Yang.
-    <br><i>(arXiv, Preprint), 2025.</i><br>
-    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a> | <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a>
+    <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
+    Runliang Niu, Jindong Li, Shiqi Wang, <b>Yali Fu</b>, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang<sup>†</sup>.<br>
+    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
+    <a href="https://www.ijcai.org/proceedings/2024/711">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
