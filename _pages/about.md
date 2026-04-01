@@ -82,11 +82,11 @@ Publications
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/discrete-survey.png" alt="Discrete Survey" width="250">
+  <img src="/images/Token-Survey-Tree.png" alt="Discrete Survey" width="250">
   <div>
     <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.</b><br>
     Jindong Li<sup>*</sup>, <b>Yali Fu</b><sup>*</sup>, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang<sup>†</sup>, Irwin King, Ming-Hsuan Yang.
-    <br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A), 2026.</i><br>
+    <br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF≈24.3), 2026.</i><br>
     <a href="https://arxiv.org/abs/2507.22920">PDF</a> | <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">CODE</a> | <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a>
   </div>
 </div>
@@ -98,7 +98,7 @@ Publications
   <div>
     <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey.</b><br>
     Jindong Li, Yongguang Li, <b>Yali Fu</b>, Jiahong Liu, Yixin Liu, Menglin Yang<sup>†</sup>, Irwin King.
-    <br><i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A), 2026.</i><br>
+    <br><i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF≈24.3), 2026.</i><br>
     <a href="https://arxiv.org/abs/2504.14280">PDF</a> | <a href="https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation">CODE</a> | <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a>
   </div>
 </div>
