@@ -132,7 +132,7 @@ Publications
   <div>
     <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection.</b><br>
     Xiyu Hu, Jindong Li, <b>Yali Fu</b>, Qi Wang<sup>†</sup>.
-    <br><i> IEEE WCCI International Joint Conference on Neural Networks‌ (IJCNN, THU推荐B类, CCF-C), 2026.</i><br>
+    <br><i> IEEE International Joint Conference on Neural Networks‌ (IJCNN, THU推荐B类, CCF-C), 2026.</i><br>
   </div>
 </div>
 
